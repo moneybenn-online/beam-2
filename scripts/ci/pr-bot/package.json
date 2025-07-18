@@ -15,14 +15,14 @@
   },
   "dependencies": {
     "@actions/exec": "^1.1.0",
-    "@actions/github": "^5.0.0",
-    "@octokit/rest": "^18.12.0",
+    "@actions/github": "^6.0.1",
+    "@octokit/rest": "^22.0.0",
     "js-yaml": "^4.1.0"
   },
   "devDependencies": {
     "@types/mocha": "^9.1.0",
     "@types/node": "^16.11.7",
-    "mocha": "^9.1.3",
+    "mocha": "^11.7.1",
     "typescript": "4.2.4",
     "prettier": "^2.5.1"
   }
